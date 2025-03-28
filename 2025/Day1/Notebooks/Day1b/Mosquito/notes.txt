@@ -1,0 +1,23 @@
+
+
+# generate observed data and summary stats
+python mosquito-observed.py
+cat mosquito-observed.csv
+
+# task 1: example to generate one simulation by sampling from priors
+python mosquito-task1.py
+# (R can also be used) 
+
+# task 2
+# generate simulations
+python mosquito-task2.py
+# explore priors and do ABC
+Rscript mosquito-task2.R
+
+# task 3
+python mosquito-task3.py
+
+Rscript mosquito-task3.R
+
+
+
