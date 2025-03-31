@@ -3,21 +3,22 @@
 
 ### Day 2
 
-- Introduction to coalescent theory and how to model genetic diversity
-- How to choose summary statistic and use them in a simple Approximate Bayesian Computation (ABC) framework
-- Practical: building a script to simulate genetic data under competing demographic scenarios and perform a simple ABC analysis.
+- A gentle introduction to Machine Learning: supervised vs unsupervised learning, regression and classification
+- Simple Machine Learning approaches with summary statistics from genomic data
+- Practical: Demographic inference with a simple Machine Learning architecture and summary statistics
+
 
 
 
 ### Schedule (Berlin time)
 
-- 14 - 15.15 session 1: introduction to population genetics (slides Day1a)
+- 14 - 15.15 session 1: A gentle introduction to Machine Learning: supervised vs unsupervised learning, regression and classification (slides + practical examples in slides
 - break 15m
-- 15.30 - 16.45 session 2: coalescent theory and summary statistics + paper exercise (slides Day1b)
+- 15.30 - 16.45 session 2: Simple Machine Learning approaches with summary statistics from genomic data, Part 1 (slides + practical examples in slides)
 - break 30m
-- 17.15 - 18.30 session 3: Bayesian statistica and ABC theory (jupyter notebooks)
+- 17.15 - 18.30 session 3: Simple Machine Learning approaches with summary statistics from genomic data, Part 2 (slides + practical examples in slides)
 - break 15m
-- 18.45 - 20 session 4: long practical on ABC
+- 18.45 - 20 session 4: Practical: Demographic inference with a simple Machine Learning architecture and summary statistics (Jupyter Notebook)
 
 
 
