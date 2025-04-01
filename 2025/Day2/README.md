@@ -12,7 +12,7 @@
 
 ### Schedule (Berlin time)
 
-- 14 - 15.15 session 1: A gentle introduction to Machine Learning: supervised vs unsupervised learning, regression and classification (slides + practical examples in slides
+- 14 - 15.15 session 1: A gentle introduction to Machine Learning: supervised vs unsupervised learning, regression and classification (slides + practical examples in slides)
 - break 15m
 - 15.30 - 16.45 session 2: Simple Machine Learning approaches with summary statistics from genomic data, Part 1 (slides + practical examples in slides)
 - break 30m
