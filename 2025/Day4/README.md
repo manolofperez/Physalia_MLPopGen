@@ -11,9 +11,9 @@ Thursday – Classes from 2 to 8 pm Berlin time
 
 ### Schedule (Berlin time)
 
-- 14.00 - 15.15 session 1: introduction to detecting selection signals
+- 14.00 - 15.15 session 1: introduction to detecting selection signals (slides part1 and part2)
 - break 15m
-- 15.30 - 16.45 session 2: deep learning to detect selection + guided exercise
+- 15.30 - 16.45 session 2: deep learning to detect selection + guided exercise (slides part3)
 - break 30m
 - 17.15 - 18.30 session 3: independent exercise to detect selection using deep learning
 - break 15m
