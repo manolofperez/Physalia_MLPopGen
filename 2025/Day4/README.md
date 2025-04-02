@@ -21,5 +21,6 @@ Thursday – Classes from 2 to 8 pm Berlin time
 
 Guided and independent exercises are available at [link](https://github.com/mfumagalli/ImaGene/tree/master/Tutorials/Workshop).
 
+You can sign up to [EvoGenomics.AI](https://www.evogenomics.ai/) to stay up-to-date for events.
 
 
