@@ -11,10 +11,10 @@
 - 14 - 15.15 session 1: introduction to population genetics
 - break 15m
 - 15.30 - 16.45 session 2: coalescent theory and summary statistics
-- break 30m
-- 17.15 - 18.30 session 3: Bayesian statistics and ABC theory (jupyter notebooks)
 - break 15m
-- 18.45 - 19 session 4: long practical on ABC
+- 17.00 - 18.15 session 3: Bayesian statistics and ABC theory (jupyter notebooks)
+- break 15m
+- 18.30 - 19 session 4: practical on ABC
 
 
 
