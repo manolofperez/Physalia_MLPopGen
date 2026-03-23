@@ -14,7 +14,7 @@
 - break 30m
 - 17.15 - 18.30 session 3: Bayesian statistics and ABC theory (jupyter notebooks)
 - break 15m
-- 18.45 - 20 session 4: long practical on ABC
+- 18.45 - 19 session 4: long practical on ABC
 
 
 
